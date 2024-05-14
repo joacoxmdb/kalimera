@@ -1,0 +1,21 @@
+{
+    "Pedidos": [
+        {
+            "Precio x lata actual": "6300",
+            "buckingham": "2",
+            "socorro": "1",
+            "sanjose": "3",
+            "sanalfonso": "4",
+            "chaparral": "2",
+            "profesorado": "3",
+            "lourdes": "5",
+            "unq": "3",
+            "dominico": "2",
+            "costo_dia": "60000",
+            "fecha": "2024-03-25 21:24:09",
+            "ganancia": 157500.0,
+            "costo_fijo": 60000.0,
+            "g_total": 97500.0
+        }
+    ]
+}
